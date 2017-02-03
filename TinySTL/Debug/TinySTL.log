@@ -1,0 +1,2 @@
+﻿  Alloc.cpp
+e:\vsprojects\tinystl\tinystl\alloc.cpp(177): error C4703: potentially uninitialized local pointer variable 'current' used
